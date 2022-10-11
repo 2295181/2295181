@@ -1,0 +1,26 @@
+p{
+    color: yellow;
+    text-align: center;
+    font-weight: 100;
+}
+span{
+    color: blue;
+}
+.green{
+    color:green;
+    text-align: left;
+} 
+
+ p{
+border: 1px solid red;
+padding-left: 30px;
+margin-top: 60px;
+
+}  
+.fixed{
+    position: fixed;
+    bottom: 0;
+} 
+.absolute{
+    position: absolute;
+}
